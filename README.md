@@ -412,7 +412,7 @@ TreuDAO adopts a more robust supply management approach:
 
 ---
 
-### Phase 6：Ecological Expansion
+### Phase 6：Ecological Expansion— Q4 2026
 
 * Integrate additional DeFi protocols
 * Build the ecosystem application layer
