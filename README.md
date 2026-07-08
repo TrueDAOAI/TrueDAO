@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  A decentralized finance protocol driven by smart contracts, community governance, value circulation, treasury regulation, and ecosystem co-construction.
+  A decentralized finance protocol driven by smart contracts, community governance, value circulation, reserve regulation, and ecosystem co-creation.
 </p>
 
 <p align="center">
@@ -34,6 +34,12 @@
   <img src="https://img.shields.io/badge/Treasury-Reserve-orange?style=flat-square" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Value%20Reward%20Pool-Active-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Dynamic%20Adjustment-Enabled-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Buyback%20%26%20Burn-Supported-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Community-Driven-lightgrey?style=flat-square" />
+</p>
 ---
 
 
