@@ -290,7 +290,7 @@ flowchart LR
     F --> I[Ecological Builder]
 
     J[Market Trading] --> K[Agreement Handling Fee]
-    K --> LReservoir Pool
+    K --> L[Reservoir Pool]
     L --> M[Repurchase / Liquidity / Risk Reserve]
 ```
 
