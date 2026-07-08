@@ -2,7 +2,7 @@
   <img src="./assets/logo.png" width="188" alt="TreuDAO Logo" />
 </p>
 
-<h1 align="center">TreuDAO</h1>
+<h1 align="center">TrueDAO</h1>
 
 <p align="center">
   <strong>Protocol-Driven Value Infrastructure for Sustainable DeFi</strong>
@@ -31,7 +31,7 @@
   </a>
 
   <a href="#">
-    <img src="https://img.shields.io/badge/Website-TreuDAO-00E6B8?style=flat-square&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-TrueDAO-00E6B8?style=flat-square&logo=googlechrome&logoColor=white" />
   </a>
 
   <a href="https://t.me/addlist/RhjCIAOytStmNDM1">
@@ -82,7 +82,7 @@
 ---
 
 
-# TreuDAO
+# TrueDAO
 
 > Protocol-Driven Value Infrastructure for Sustainable DeFi
 > A decentralized finance protocol driven by protocols, governed by the community, supported by value circulation and built through ecological co-construction.
@@ -91,11 +91,11 @@
 
 ## Introduction
 
-**TreuDAO** is an on-chain value protocol designed for the era of blockchain-based finance, dedicated to building a fairer, more transparent, and sustainable decentralized autonomous financial system.
+**TrueDAO** is an on-chain value protocol designed for the era of blockchain-based finance, dedicated to building a fairer, more transparent, and sustainable decentralized autonomous financial system.
 
 Unlike models that rely on high-inflation incentives, single-pool allocations, or short-term return cycles, TreuDAO establishes a sustainable on-chain value circulation system through a dynamic price floor mechanism, a value reward pool, protocol capital inflows, reserve adjustments, supply management, and community governance.
 
-The goal of TreuDAO is not to simply generate short-term returns, but to connect users, the community, ecological projects, liquidity and the treasury through protocol rules, enabling the token value to continuously accumulate through sustained trading, ecological revenue, market backflows and governance consensus.
+The goal of TrueDAO is not to simply generate short-term returns, but to connect users, the community, ecological projects, liquidity and the treasury through protocol rules, enabling the token value to continuously accumulate through sustained trading, ecological revenue, market backflows and governance consensus.
 
 ---
 
@@ -105,7 +105,7 @@ The core value proposition of TreuDAO can be summarized as:
 
 **Driven by protocols rather than manual intervention**
 
-Key rules of TreuDAO—including staking, reward distribution, pool coverage ratio calculation, reserve adjustment, buyback triggers, and reward adjustments—are executed via smart contracts, thereby minimizing the scope for human intervention.
+Key rules of TrueDAO—including staking, reward distribution, pool coverage ratio calculation, reserve adjustment, buyback triggers, and reward adjustments—are executed via smart contracts, thereby minimizing the scope for human intervention.
 
 **A value cycle, rather than one-way consumption.**
 
@@ -113,21 +113,21 @@ The protocol transforms market activities into sources of protocol value through
 
 ### Dynamic adjustment rather than fixed high returns.
 
-TreuDAO does not rely on long-term fixed high-yield promises. Instead, it dynamically adjusts reward intensity based on indicators such as the state of the protocol pool, the network-wide staking ratio, market liquidity, and coverage rate, enabling the system to maintain resilience across different market cycles.
+TrueDAO does not rely on long-term fixed high-yield promises. Instead, it dynamically adjusts reward intensity based on indicators such as the state of the protocol pool, the network-wide staking ratio, market liquidity, and coverage rate, enabling the system to maintain resilience across different market cycles.
 
 **Community co-creation, rather than centralized control.**
 
-TreuDAO encourages community participation in governance, ecosystem development, node promotion, protocol proposals and public resource construction, enabling the advancement of the protocol to be jointly driven by community consensus.
+TrueDAO encourages community participation in governance, ecosystem development, node promotion, protocol proposals and public resource construction, enabling the advancement of the protocol to be jointly driven by community consensus.
 
 **Long-term sustainability, rather than short-term surges.**
 
-TreuDAO’s design focuses not on short-term price fluctuations, but on building long-term operational viability through protocol reserves, value backing, dynamic price support, and supply management.
+TrueDAO’s design focuses not on short-term price fluctuations, but on building long-term operational viability through protocol reserves, value backing, dynamic price support, and supply management.
 
 ---
 
 ## 🧱 Technical Architecture
 
-TreuDAO employs a modular smart contract architecture composed of multiple core protocol modules.
+TrueDAO employs a modular smart contract architecture composed of multiple core protocol modules.
 
 ```mermaid
 flowchart TD
@@ -176,7 +176,7 @@ Used to read key data such as price, pool status, pledge ratio and coverage rati
 
 ## 🔄 Standard Transaction Process
 
-The standard transaction process of TreuDAO revolves around user transactions, commission reflux, replenishment of the value reward pool, dynamic adjustment and reward distribution.
+The standard transaction process of TrueDAO revolves around user transactions, commission reflux, replenishment of the value reward pool, dynamic adjustment and reward distribution.
 
 ```mermaid
 sequenceDiagram
@@ -214,7 +214,7 @@ sequenceDiagram
 
 ### 1. Dynamic reserve price mechanism
 
-TreuDAO introduces the concept of dynamic floor price. Instead of relying on fixed price commitments as support, it forms a dynamic value support range based on factors such as protocol reserves, value reward pool coverage ratio, market liquidity, and reserve repurchase capacity.
+TrueDAO introduces the concept of dynamic floor price. Instead of relying on fixed price commitments as support, it forms a dynamic value support range based on factors such as protocol reserves, value reward pool coverage ratio, market liquidity, and reserve repurchase capacity.
 
 This allows the agreement to avoid risks arising from rigid downside protection while maintaining stronger adaptability amid market fluctuations.
 
@@ -227,7 +227,7 @@ When the coverage rate drops, the system will automatically reduce the release i
 
 ### 3. Dynamic Reward Adjustment System
 
-TreuDAO does not adopt a fixed-income model; instead, it dynamically calculates rewards through multi-dimensional metrics:
+TrueDAO does not adopt a fixed-income model; instead, it dynamically calculates rewards through multi-dimensional metrics:
 
 * Coverage rate of value reward pool
 * Sufficiency Rate of Value Reward Pool
@@ -239,7 +239,7 @@ TreuDAO does not adopt a fixed-income model; instead, it dynamically calculates 
 
 ### 4. Multi-source Value Supply Mechanism
 
-TreuDAO's rewards do not rely on a single source but are derived from multiple value streams:
+TrueDAO's rewards do not rely on a single source but are derived from multiple value streams:
 
 * Rebate of transaction handling fees
 * Cyclone tank token reflux
@@ -250,7 +250,7 @@ TreuDAO's rewards do not rely on a single source but are derived from multiple v
 
 ### 5. Agreement-level Supply Management
 
-TreuDAO manages token supply through constant base supply, repurchase and burn, circulation regulation, emergency mechanisms and other measures to mitigate the pressure exerted by disorderly additional issuance on long-term value.
+TrueDAO manages token supply through constant base supply, repurchase and burn, circulation regulation, emergency mechanisms and other measures to mitigate the pressure exerted by disorderly additional issuance on long-term value.
 
 ### 6. DAO Co-governance Mechanism
 
@@ -262,7 +262,7 @@ Core protocol parameters, the use of ecosystem funds, major module upgrades, str
 
 ### 1. Staking Module
 
-Users may stake TreuDAO Token into the protocol contract to earn rewards based on staking volume, staking duration and system weights.
+Users may stake TrueDAO Token into the protocol contract to earn rewards based on staking volume, staking duration and system weights.
 
 Core Functions:
 
@@ -277,7 +277,7 @@ Core Functions:
 
 ### 2. Value Reward Pool
 
-The value reward pool is the core value bearing module of TreuDAO, which is used to receive protocol reflux funds and support the distribution of user rewards.
+The value reward pool is the core value bearing module of TrueDAO, which is used to receive protocol reflux funds and support the distribution of user rewards.
 
 Main Sources:
 
@@ -347,7 +347,7 @@ The governance contents include:
 
 ### 7. Security Layer
 
-TreuDAO regards security as the foundation for the long-term operation of the protocol.
+TrueDAO regards security as the foundation for the long-term operation of the protocol.
 
 Safety design includes:
 
@@ -359,7 +359,7 @@ Safety design includes:
 
 ## 💎 Economic Models and Incentive Mechanisms
 
-The economic model of TreuDAO revolves around four dimensions: value inflow, value accumulation, value regulation, and value distribution.
+The economic model of TrueDAO revolves around four dimensions: value inflow, value accumulation, value regulation, and value distribution.
 
 ```mermaid
 flowchart LR
@@ -380,7 +380,7 @@ flowchart LR
 
 ### Token Use Cases
 
-TreuDAO Token can be used for:
+TrueDAO Token can be used for:
 
 * Obtain protocol rewards through staking
 * Participate in DAO governance
@@ -408,7 +408,7 @@ The protocol incentives mainly come from:
 
 ### Reward adjustment logic
 
-Rewards of TreuDAO are not fixed; instead, they change dynamically based on the health status of the system.
+Rewards of TrueDAO are not fixed; instead, they change dynamically based on the health status of the system.
 
 | System Status            | Protocol Behavior                       |
 | ------------------------ | --------------------------------------- |
@@ -423,7 +423,7 @@ Rewards of TreuDAO are not fixed; instead, they change dynamically based on the 
 
 ### Supply Management
 
-TreuDAO adopts a more robust supply management approach:
+TrueDAO adopts a more robust supply management approach:
 
 * Constant benchmark supply
 * Rewards are allocated based on stock recycling
@@ -436,7 +436,7 @@ TreuDAO adopts a more robust supply management approach:
 
 ### Phase 1: Protocol Design and Infrastructure Construction - January 2025
 
-* Complete the design of the TreuDAO protocol model
+* Complete the design of the TrueDAO protocol model
 * Completed economic model design
 * Completed core module breakdown
 * Completed whitepaper draft
@@ -505,7 +505,7 @@ TreuDAO adopts a more robust supply management approach:
 * Launch an ecosystem prediction market
 * Launch a liquidity network
 * Drive cross-chain deployment
-* Build the TreuDAO ecosystem alliance
+* Build the TrueDAO ecosystem alliance
 
 ---
 
@@ -555,7 +555,7 @@ git push origin feature/your-feature-name
 
 ### Community Guidelines
 
-The TreuDAO community adheres to:
+The TrueDAO community adheres to:
 
 * Open Collaboration
 * Transparent Governance
@@ -660,9 +660,9 @@ npx hardhat run scripts/deploy.js --network sepolia
 ### Project Structure
 
 ```bash
-treudao-protocol/
+TrueDAO-protocol/
 ├── contracts/
-│   ├── TreuToken.sol
+│   ├── TRDToken.sol
 │   ├── StakingModule.sol
 │   ├── RewardEngine.sol
 │   ├── ValueRewardPool.sol
@@ -696,7 +696,7 @@ treudao-protocol/
 
 Safety Instructions
 
-TreuDAO is still in the protocol construction and development phase. All smart contracts shall undergo comprehensive testing, security audits and community verification prior to the official mainnet launch.
+TrueDAO is still in the protocol construction and development phase. All smart contracts shall undergo comprehensive testing, security audits and community verification prior to the official mainnet launch.
 
 Please note:
 
@@ -712,7 +712,7 @@ Please note:
 ```text
 MIT License
 
-Copyright (c) TreuDAO
+Copyright (c) TrueDAO
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files...
@@ -722,7 +722,7 @@ of this software and associated documentation files...
 
 ## About TreuDAO
 
-TreuDAO is not just a DeFi protocol.
+TrueDAO is not just a DeFi protocol.
 It is a protocol-driven value infrastructure designed for long-term sustainability, community governance, and on-chain value circulation.
 
 **Build together. Govern together. Grow together.**
