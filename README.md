@@ -34,15 +34,15 @@
     <img src="https://img.shields.io/badge/Website-TreuDAO-00E6B8?style=flat-square&logo=googlechrome&logoColor=white" />
   </a>
 
-  <a href="#">
+  <a href="https://t.me/addlist/RhjCIAOytStmNDM1">
     <img src="https://img.shields.io/badge/Telegram-Join-blue?style=flat-square&logo=telegram" />
   </a>
 
-  <a href="#">
+  <a href="https://x.com/TrueDAOAI">
     <img src="https://img.shields.io/badge/X-Follow-black?style=flat-square&logo=x" />
   </a>
 
-  <a href="#">
+  <a href="https://discord.gg/tyHAvrvNWn">
     <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord&logoColor=white" />
   </a>
 </p>
