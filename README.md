@@ -188,7 +188,7 @@ sequenceDiagram
     participant Engine 
     participant Reward 
 
-    User->>DEX: Buy / Sell TreuDAO Token
+    User->>DEX: Buy / Sell TrueDAO Token
     DEX->>Router: Generate transaction fees
     Router->>Pool: Part of the transaction fees flow back into the reward pool
     Router->>Treasury: Part of the handling fees go to rewards
@@ -511,7 +511,7 @@ TrueDAO adopts a more robust supply management approach:
 
 ## 🤝 Community and Contributions
 
-TreuDAO is an open, transparent and community-driven protocol that welcomes developers, researchers, community members, designers, security auditors and ecosystem partners to participate jointly.
+TrueDAO is an open, transparent and community-driven protocol that welcomes developers, researchers, community members, designers, security auditors and ecosystem partners to participate jointly.
 
 ### What can you contribute?
 
