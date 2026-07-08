@@ -1,3 +1,42 @@
+<p align="center">
+  <img src="./assets/logo.png" width="160" alt="TreuDAO Logo" />
+</p>
+
+<h1 align="center">TreuDAO</h1>
+
+<p align="center">
+  <strong>Protocol-Driven Value Infrastructure for Sustainable DeFi</strong>
+</p>
+
+<p align="center">
+  A decentralized finance protocol driven by smart contracts, community governance, value circulation, treasury regulation, and ecosystem co-construction.
+</p>
+
+<p align="center">
+  <em>Protocol Rules → Value Inflow → Dynamic Regulation → Sustainable Rewards</em>
+</p>
+
+<p align="center">
+  <a href="#introduction">Introduction</a> ·
+  <a href="#core-value-proposition">Value Proposition</a> ·
+  <a href="#-technical-architecture">Architecture</a> ·
+  <a href="#-core-innovation">Innovation</a> ·
+  <a href="#-economic-models-and-incentive-mechanisms">Tokenomics</a> ·
+  <a href="#-roadmap">Roadmap</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Solidity-0.8.x-363636?style=flat-square&logo=solidity" />
+  <img src="https://img.shields.io/badge/Hardhat-Ready-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/DeFi-3.0-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/DAO-Governance-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Treasury-Reserve-orange?style=flat-square" />
+</p>
+
+---
+
+
 # TreuDAO
 
 > Protocol-Driven Value Infrastructure for Sustainable DeFi
