@@ -93,7 +93,7 @@
 
 **TrueDAO** is an on-chain value protocol designed for the era of blockchain-based finance, dedicated to building a fairer, more transparent, and sustainable decentralized autonomous financial system.
 
-Unlike models that rely on high-inflation incentives, single-pool allocations, or short-term return cycles, TreuDAO establishes a sustainable on-chain value circulation system through a dynamic price floor mechanism, a value reward pool, protocol capital inflows, reserve adjustments, supply management, and community governance.
+Unlike models that rely on high-inflation incentives, single-pool allocations, or short-term return cycles, TrueDAO establishes a sustainable on-chain value circulation system through a dynamic price floor mechanism, a value reward pool, protocol capital inflows, reserve adjustments, supply management, and community governance.
 
 The goal of TrueDAO is not to simply generate short-term returns, but to connect users, the community, ecological projects, liquidity and the treasury through protocol rules, enabling the token value to continuously accumulate through sustained trading, ecological revenue, market backflows and governance consensus.
 
@@ -101,7 +101,7 @@ The goal of TrueDAO is not to simply generate short-term returns, but to connect
 
 ## Core Value Proposition
 
-The core value proposition of TreuDAO can be summarized as:
+The core value proposition of TrueDAO can be summarized as:
 
 **Driven by protocols rather than manual intervention**
 
