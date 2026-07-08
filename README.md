@@ -26,12 +26,51 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Solidity-0.8.x-363636?style=flat-square&logo=solidity" />
-  <img src="https://img.shields.io/badge/Hardhat-Ready-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/DeFi-3.0-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/DAO-Governance-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/Treasury-Reserve-orange?style=flat-square" />
+  <a href="https://github.com/TrueDAOAI/TrueDAO">
+    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" />
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Website-TreuDAO-00E6B8?style=flat-square&logo=googlechrome&logoColor=white" />
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Telegram-Join-blue?style=flat-square&logo=telegram" />
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/X-Follow-black?style=flat-square&logo=x" />
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.binance.com/">
+    <img src="https://img.shields.io/badge/Binance-Exchange-F0B90B?style=flat-square&logo=binance&logoColor=black" />
+  </a>
+
+  <a href="https://www.okx.com/">
+    <img src="https://img.shields.io/badge/OKX-Exchange-black?style=flat-square&logo=okx&logoColor=white" />
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Solidity-0.8.x-363636?style=flat-square&logo=solidity" />
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Hardhat-Ready-yellow?style=flat-square" />
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/DAO-Governance-purple?style=flat-square" />
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/DeFi-3.0-brightgreen?style=flat-square" />
+  </a>
 </p>
 
 <p align="center">
