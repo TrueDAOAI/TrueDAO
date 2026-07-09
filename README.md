@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo.png" width="188" alt="TreuDAO Logo" />
+  <img src="./assets/logo.png" width="188" alt="TrueDAO Logo" />
 </p>
 
 <h1 align="center">TrueDAO</h1>
